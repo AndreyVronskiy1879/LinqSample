@@ -1,0 +1,12 @@
+D:\HomeworkReposittory\LinqSample\LinqSamples\LinqExamples\bin\Debug\net5.0\LinqExamples.deps.json
+D:\HomeworkReposittory\LinqSample\LinqSamples\LinqExamples\bin\Debug\net5.0\LinqExamples.dll
+D:\HomeworkReposittory\LinqSample\LinqSamples\LinqExamples\bin\Debug\net5.0\ref\LinqExamples.dll
+D:\HomeworkReposittory\LinqSample\LinqSamples\LinqExamples\bin\Debug\net5.0\LinqExamples.pdb
+D:\HomeworkReposittory\LinqSample\LinqSamples\LinqExamples\obj\Debug\net5.0\LinqExamples.csprojAssemblyReference.cache
+D:\HomeworkReposittory\LinqSample\LinqSamples\LinqExamples\obj\Debug\net5.0\LinqExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeworkReposittory\LinqSample\LinqSamples\LinqExamples\obj\Debug\net5.0\LinqExamples.AssemblyInfoInputs.cache
+D:\HomeworkReposittory\LinqSample\LinqSamples\LinqExamples\obj\Debug\net5.0\LinqExamples.AssemblyInfo.cs
+D:\HomeworkReposittory\LinqSample\LinqSamples\LinqExamples\obj\Debug\net5.0\LinqExamples.csproj.CoreCompileInputs.cache
+D:\HomeworkReposittory\LinqSample\LinqSamples\LinqExamples\obj\Debug\net5.0\LinqExamples.dll
+D:\HomeworkReposittory\LinqSample\LinqSamples\LinqExamples\obj\Debug\net5.0\ref\LinqExamples.dll
+D:\HomeworkReposittory\LinqSample\LinqSamples\LinqExamples\obj\Debug\net5.0\LinqExamples.pdb

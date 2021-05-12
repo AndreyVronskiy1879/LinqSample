@@ -1,0 +1,177 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\HomeworkReposittory\\LinqSample\\LinqSamples\\AnalyticsProgram\\AnalyticsProgram.csproj": {}
+  },
+  "projects": {
+    "D:\\HomeworkReposittory\\LinqSample\\LinqSamples\\AnalyticsProgram\\AnalyticsProgram.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HomeworkReposittory\\LinqSample\\LinqSamples\\AnalyticsProgram\\AnalyticsProgram.csproj",
+        "projectName": "AnalyticsProgram",
+        "projectPath": "D:\\HomeworkReposittory\\LinqSample\\LinqSamples\\AnalyticsProgram\\AnalyticsProgram.csproj",
+        "packagesPath": "C:\\Users\\AS\\.nuget\\packages\\",
+        "outputPath": "D:\\HomeworkReposittory\\LinqSample\\LinqSamples\\AnalyticsProgram\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\HomeworkReposittory\\LinqSample\\LinqSamples\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\HomeworkReposittory\\LinqSample\\LinqSamples\\DataAccess\\DataAccess.csproj"
+              },
+              "D:\\HomeworkReposittory\\LinqSample\\LinqSamples\\JobScheduler\\JobScheduler.csproj": {
+                "projectPath": "D:\\HomeworkReposittory\\LinqSample\\LinqSamples\\JobScheduler\\JobScheduler.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\HomeworkReposittory\\LinqSample\\LinqSamples\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HomeworkReposittory\\LinqSample\\LinqSamples\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "D:\\HomeworkReposittory\\LinqSample\\LinqSamples\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\AS\\.nuget\\packages\\",
+        "outputPath": "D:\\HomeworkReposittory\\LinqSample\\LinqSamples\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\HomeworkReposittory\\LinqSample\\LinqSamples\\JobScheduler\\JobScheduler.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HomeworkReposittory\\LinqSample\\LinqSamples\\JobScheduler\\JobScheduler.csproj",
+        "projectName": "JobScheduler",
+        "projectPath": "D:\\HomeworkReposittory\\LinqSample\\LinqSamples\\JobScheduler\\JobScheduler.csproj",
+        "packagesPath": "C:\\Users\\AS\\.nuget\\packages\\",
+        "outputPath": "D:\\HomeworkReposittory\\LinqSample\\LinqSamples\\JobScheduler\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
