@@ -8,9 +8,9 @@ namespace JobScheduler
 {
     public interface IJob
     {
-        bool IsFailed { get; set; }
-        DateTime StartJobAt { get; set; }
+        Task <bool> ShoudRun(DateTime signalTime);
+        void MarkAsFailed();
 
-        void Execute(DateTime signalTime);
+        Task Execute(DateTime signalTime);
     }
 }
